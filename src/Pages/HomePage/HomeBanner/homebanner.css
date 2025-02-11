@@ -1,0 +1,62 @@
+.homebanner{
+    width:100%;
+    height:100%;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    position:relative;
+    font-size: 0;
+}
+.homebannerimg{
+    height:80vh;
+    width:100%;
+}
+.graybackground{
+    background-color: rgb(238, 235, 235);
+    height:80vh;
+}
+
+.homebanneritem{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    position:absolute;
+    padding:0px 20px;
+    top:25%;
+    gap:20px;
+}
+.gridcard{
+    display:flex;
+    flex-direction:column ;
+    background-color: white;
+    box-sizing:border-box;
+    width:100%;
+    height:100%;
+    padding:20px 0px 15px;
+}
+.gridcardtitle{
+    margin:0px 20px;
+    font-weight: 700;
+    font-size: 21px;
+}
+.flexcard{
+    margin:10px 20px;
+    display:grid;
+    grid-template-columns: auto auto;
+}
+.flexitems{
+    display:flex;
+    flex-direction: column;
+    height:100%;
+    width:100%;
+}
+
+.imagesize{
+   padding: 5px;
+   height:100px;
+   width:110px;
+}
+
+ .flexcardtitle{
+    font-size: 12px;
+    font-weight: 500;
+ }
+ 

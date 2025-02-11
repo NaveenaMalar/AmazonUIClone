@@ -1,0 +1,15 @@
+.App {
+  padding:0;
+  margin:0;
+  box-sizing:border-box;
+  position:relative;
+}
+.emptycart{
+  font-weight: 500;
+  font-size: larger;
+  font-family: cursive;
+  display:flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 100px;
+}

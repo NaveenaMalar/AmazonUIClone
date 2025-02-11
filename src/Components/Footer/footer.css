@@ -1,0 +1,31 @@
+.footer{
+    background-color:#232F3E;
+    padding:20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footertop{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;    
+}
+.list{
+    padding-right: 4rem;
+}
+.subtitle{
+    font-weight: bold;
+    padding-bottom: 5px;
+    font-size: large;
+}
+.content{
+    padding:2px;
+    font-weight: 300 ;
+}
+.footerbottom{
+    padding:4rem;
+    padding-left: 0rem;
+    font-size: small;
+}

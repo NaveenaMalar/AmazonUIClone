@@ -1,0 +1,248 @@
+{
+    "Electronics":[  
+        {
+            "name": "HP-Laptop",
+            "img": "https://darlingretail.com/cdn/shop/files/618wKFHRrML._SL1500_1200x.jpg?v=1705402383",
+            "Desc": "HP 15, 12th Gen Intel Core i5-1235U, 16GB DDR4, 512GB SSD, 15.6-inch(39.6cm), Anti-Glare, FHD Laptop, Intel Iris Xe Graphics, Backlit KB, 720p HD Camera (Win 11, Office 21, Silver, 1.69kg) fy5009tu",
+            "offer": "-15%",
+            "offerprice": "₹52,990",
+            "originalprice": "M.R.P.: ₹62,417",
+            "quantity":1,
+            "specifications": [
+            {
+                "name": "Brand",
+                "value": "HP"
+            },
+            {
+                "name": "Model Name",
+                "value": "HP 15s"
+            },
+            {
+                "name": "Screen Size",
+                "value": "39.6 Inches"
+            },
+            {
+                "name": "Colour",
+                "value": "Silver, 16GB RAM"
+            },
+            {
+                "name": "Hard Disk Size",
+                "value": "512 GB"
+            },
+            {
+                "name": "CPU Model",
+                "value": "Intel Core i5"
+            },
+            {
+                "name": "RAM Memory Installed Size",
+                "value": "16 GB"
+            },
+            {
+                "name": "Operating System",
+                "value": "Windows 11"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Anti Glare Coating"
+            },
+            {
+                "name": "Graphics Card Description",
+                "value": "Integrated"
+            }
+        ]
+    },
+      {   
+        "name": "SmartWatch",
+        "img": "https://m.media-amazon.com/images/I/61seN4mfgOL._SX679_.jpg",
+        "Desc": "Apple Watch SE (2nd Gen, 2023) [GPS 44mm] Smartwatch with Midnight Aluminum Case with Midnight Sport Band. Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Retina Display",
+        "offer": "-19%",
+        "offerprice": "₹22,599",
+        "originalprice": "M.R.P.: ₹27,900",
+        "quantity":1,
+        "specifications": [
+            {
+                "name": "Operating System",
+                "value": "Ios"
+            },
+            {
+                "name": "Memory Storage Capacity",
+                "value": "32 GB"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Sleep Monitor, Sedentary Reminder"
+            },
+            {
+                "name": "Connectivity Technology",
+                "value": "Wi-Fi 4 (802.11n);Bluetooth 5.3"
+            },
+            {
+                "name": "Battery Cell Composition",
+                "value": "Lithium Ion"
+            }]
+    },
+    {   
+        "name": "Lenovo-Laptop",
+        "img": "https://m.media-amazon.com/images/I/815ZvsHky7L._AC_UL480_FMwebp_QL65_.jpg",
+        "Desc": "Lenovo LOQ 2024 13th Gen Core i5-13450HX | NVIDIA RTX 4050 6GB (16GB RAM/512GB SSD/15.6 Inches (39.6cm)/144Hz/Windows 11/MS Office 21/1Yr ADP Free/3 Mon Game Pass/Grey/2.4Kg), 83DV007GIN Gaming Laptop",
+        "offer": "-27%",
+        "offerprice": "₹81,990",
+        "originalprice": "M.R.P.: ₹1,12,990.00",
+        "quantity":1,
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "Lenovo"
+            },
+            {
+                "name": "Model Name",
+                "value": "LOQ"
+            },
+            {
+                "name": "Screen Size",
+                "value": "15.6 Inches"
+            },
+            {
+                "name": "Colour",
+                "value": "Luna Grey"
+            },
+            {
+                "name": "Hard Disk Size",
+                "value": "512 GB"
+            },
+            {
+                "name": "CPU Model",
+                "value": "Intel Core i5"
+            },
+            {
+                "name": "RAM Memory Installed Size",
+                "value": "16 GB"
+            },
+            {
+                "name": "Operating System",
+                "value": "Windows 11"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Anti Glare Coating"
+            },
+            {
+                "name": "Graphics Card Description",
+                "value": "Dedicated"
+            }]
+    }
+],
+
+"Deals":[
+    {
+            "name": "carpet",
+            "img": "https://m.media-amazon.com/images/I/81uA15XIX7L._SL1500_.jpg",
+            "Desc": "imra carpet Soft Modern Shag Area Rectangular Rugs Fluffy Living Room Carpet Comfy Bedroom Home Decorate Floor Kids Playing Mat 9 Feet By 12 Feet,Black",
+            "offer": "-25%",
+            "offerprice": "₹19,499",
+            "originalprice": "M.R.P.: 25,999",
+            "quantity":1,
+            "specifications": [
+            {
+                "name": "Brand",
+                "value": "imra carpet"
+            },
+            {
+                "name": "Size",
+                "value": "9 X 12 Feet"
+            },
+            {
+                "name": "Material",
+                "value": "Silk"
+            },
+            {
+                "name": "Weave Type",
+                "value": "Tufted"
+            },
+            {
+                "name": "Pile Height",
+                "value": "5.08 centimeters"
+            },
+            {
+                "name": "Construction Type",
+                "value": "Machine Made"
+            },
+            {
+                "name": "Back Material Type",
+                "value": "Cotton"
+            },
+            {
+                "name": "Colour",
+                "value": "Coffee"
+            },
+            {
+                "name": "Indoor/Outdoor Usage",
+                "value": "Indoor"
+            },
+            {
+                "name": "Theme",
+                "value": "Modern"
+            }
+        ]
+    },{   
+        "name": "Track",
+        "img": "https://m.media-amazon.com/images/I/81C06D8P4TL._SX679_.jpg",
+        "Desc": "Real Basics unisex child fleece Track Suit",
+        "offer": "-38%",
+        "offerprice": "₹369",
+        "originalprice": "M.R.P.: ₹599",
+        "quantity":1,
+        "specifications": [
+            {
+                "name": "Material composition",
+                "value": "100% Cotton"
+            },
+            {
+                "name": "Closure type",
+                "value": "Pull On"
+            },
+            {
+                "name": "Care instructions",
+                "value": "Machine Wash"
+            },
+            {
+                "name": "Sleeve type",
+                "value": "Long Sleeve"
+            },
+            {
+                "name": "Country of Origin",
+                "value": "India"
+            }]
+    },
+    {   
+        "name": "POCO",
+        "img": "https://www.jiomart.com/images/product/original/494352844/poco-x6-neo-256-gb-12-gb-ram-mobile-phone-black-digital-o494352844-p608453020-1-202403141203.jpeg?im=Resize=(1000,1000)",
+        "Desc": "POCO X6 Neo 5G (Horizon Blue, 8GB RAM, 128GB Storage) | Dimensity 6080 Processor | 5000 mAh Battery + 33W Fast Charging | 108MP + 2MP Rear Camera & 16MP Front Camera",
+        "offer": "-40%",
+        "offerprice": "11,999",
+        "originalprice": "M.R.P.: 19,999",
+        "quantity":1,
+        "specifications": [
+            {
+                "name": "Brand",
+                "value": "POCO"
+            },
+            {
+                "name": "Operating System",
+                "value": "Android 13, MIUI 14"
+            },
+            {
+                "name": "RAM Memory Installed Size",
+                "value": "8 GB"
+            },
+            {
+                "name": "CPU Model",
+                "value": "Snapdragon"
+            },
+            {
+                "name": "CPU Speed",
+                "value": "2.4 GHz"
+            }]
+    }
+]
+}
