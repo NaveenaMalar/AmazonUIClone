@@ -13,7 +13,7 @@ const Navbarheader = () => {
     <div className='navbarheader'>
         <div className='navbarheaderleft'>
             <div className='navbarheaderleftlogo'>
-               <a href="http://localhost:3000/"> <img className='amazonlogo' src={amazonlogo} alt='amazonlogo' /> </a>
+               <a href="https://naveenamalar.github.io/AmazonUIClone"> <img className='amazonlogo' src={amazonlogo} alt='amazonlogo' /> </a>
                 <span className='navbar_inlogo'>.in</span>
             </div>  
             <div className='navbarheaderlocation'>
